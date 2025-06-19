@@ -4,6 +4,8 @@ All Of My Codes In Programming
 
 here im gonna add all my lean from code 
 
-my first its gonna be this
+# my first its gonna be this
 
-https://www.coursera.org/learn/programming-languages
+# COURSERA Python for Data Science, AI & Development
+
+https://www.coursera.org/learn/python-for-applied-data-science-ai?action=enroll
